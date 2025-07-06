@@ -1,0 +1,9 @@
+pandas
+sqlalchemy
+pyarrow
+fastavro
+psycopg2-binary        # PostgreSQL driver
+pymysql                # MySQL driver
+pyodbc                 # SQL Server driver
+watchdog               # For file event-based trigger
+PyYAML                 # For reading YAML config

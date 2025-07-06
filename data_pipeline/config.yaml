@@ -1,0 +1,9 @@
+# config.yaml
+
+tables:
+  employees:
+    - id
+    - name
+    - department
+  departments:
+    - "*"
